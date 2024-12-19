@@ -19,9 +19,9 @@ I hold a Bachelor of Science, majoring in Psychological and Behavioural Sciences
 - Conducting neuropsychological research, including psychometric data collection and analysis.
 
 ### The Tools I Use 📊
-- __Programming Languages__: Python (Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Scikit-Learn) and I am currently learning SQL.
+- __Programming Languages__: Python (Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Scikit-Learn) and SQL.
 - __Statistical Tools__: JAMOVI, JASP and SPSS,
-- __Databases__: I am currently learning mySQL.
+- __Databases__: mySQL.
 - __Data Visualisation__: Tableau, Power BI, Google Sheets and Excel.
 - __Other Tools__: Anaconda and Visual Studio Code.
 
