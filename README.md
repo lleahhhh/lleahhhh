@@ -31,6 +31,7 @@ You can find all of my projects [here](https://github.com/lleahhhh/Data-Science-
 ## Connect with Me 👋🏻
 - [LinkedIn](https://www.linkedin.com/in/leah-lowenstein-55b019215/)
 - Hire me on [Upwork](https://www.upwork.com/freelancers/~01ae11d27f64331379)
+- Follow my privacy blog on [Medium](https://medium.com/@lleahhhh)
 - Read more about my passion for data, web3 development and tech on my [Twitter/X](https://x.com/leahhhh_l)
 
 <!--
