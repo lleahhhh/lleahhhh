@@ -5,8 +5,6 @@
 ## Hi there! 😊
 I'm Leah -- a data scientist and neuropsychology researcher with expertise in data analytics, reporting, and data modeling.
 
-I am currently completing my Graduate Certificate in Data Science at ECU and my Graduate Diploma of Psychology at Murdoch University, where I am conducting pain research. 
-
 I hold a Bachelor of Science, majoring in Psychological and Behavioural Sciences, from UWA. My studies in advanced behavioral statistics ignited a passion for generating insights and making meaningful connections through data.
 
 ### My Skills Include 🌻
@@ -18,7 +16,7 @@ I hold a Bachelor of Science, majoring in Psychological and Behavioural Sciences
 - Developing SQL skills to optimise queries and manage relational databases.
 - Conducting neuropsychological research, including psychometric data collection and analysis.
 
-### The Tools I Use 📊
+### The Tools I Use for Data 📊
 - __Programming Languages__: Python (Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Scikit-Learn) and SQL.
 - __Statistical Tools__: JAMOVI, JASP and SPSS,
 - __Databases__: mySQL.
@@ -26,7 +24,7 @@ I hold a Bachelor of Science, majoring in Psychological and Behavioural Sciences
 - __Other Tools__: Anaconda and Visual Studio Code.
 
 ## Projects 💻
-You can find all of my projects [here](https://github.com/lleahhhh/Data-Science-Portfolio) !
+You can find all of my data science projects [here](https://github.com/lleahhhh/Data-Science-Portfolio) !
 
 ## Connect with Me 👋🏻
 - [LinkedIn](https://www.linkedin.com/in/leah-lowenstein-55b019215/)
