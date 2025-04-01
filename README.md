@@ -3,7 +3,7 @@
 <img width="900" alt="Profile Header" src=https://github.com/user-attachments/assets/fb222b9a-807e-4b0e-b893-3bc460d7252c>
 
 ## Hi there! 😊
-I'm Leah -- a data scientist and neuropsychology researcher with expertise in data analytics, reporting, and data modeling.
+I'm Leah -- a data enthusiast with expertise in data analytics, reporting, and data modeling.
 
 I hold a Bachelor of Science, majoring in Psychological and Behavioural Sciences, from UWA. My studies in advanced behavioral statistics ignited a passion for generating insights and making meaningful connections through data.
 
@@ -29,8 +29,8 @@ You can find all of my data science projects [here](https://github.com/lleahhhh/
 ## Connect with Me 👋🏻
 - [LinkedIn](https://www.linkedin.com/in/leah-lowenstein-55b019215/)
 - Hire me on [Upwork](https://www.upwork.com/freelancers/~01ae11d27f64331379)
-- Follow my privacy blog on [Medium](https://medium.com/@lleahhhh)
-- Read more about my passion for data, web3 development and tech on my [Twitter/X](https://x.com/leahhhh_l)
+- Follow my blog (... coming soon ...)
+- [Twitter/X](https://x.com/binpige0n)
 
 <!--
 **lleahhhh/lleahhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
