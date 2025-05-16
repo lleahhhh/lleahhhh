@@ -1,6 +1,6 @@
 # An Introduction 💫 
 
-<img width="900" alt="Profile Header" src=https://github.com/user-attachments/assets/fb222b9a-807e-4b0e-b893-3bc460d7252c>
+<img width="900" alt="Profile Header" src=https://github.com/user-attachments/assets/e344a0f0-f48f-4503-84ff-8936139dc53b>
 
 ## Hi there, I'm Leah! 😊
 I’m completing my Master of Computer Science student at Monash University, building on a background in psychology and data science.
@@ -42,8 +42,8 @@ You can find my older data science projects [here](https://github.com/lleahhhh/D
 
 ## Connect with Me ✨
 - [LinkedIn](https://www.linkedin.com/in/leah-lowenstein-55b019215/)
-- Follow my blog (... coming soon ...)
 - [Twitter/X](https://x.com/binpige0n)
+- Follow my blog, The Human Protocol (... coming soon ...)
 
 <!--
 **lleahhhh/lleahhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
