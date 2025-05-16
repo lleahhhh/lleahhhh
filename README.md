@@ -17,12 +17,18 @@ Hoping to create accessible tools that empower people to learn, create, and prot
 
 ## 🛠️ Some Tech I Use
 Frontend: Vue.js, Vite, Tailwind CSS
+
 Backend: Node.js, Python, SQL
+
 DevOps: Docker, DevContainers, Podman
+
 Data & ML: Pandas, NumPy, Scikit-Learn, TensorFlow
+
 Research Tools: JAMOVI, JASP, SPSS
+
 Databases: MySQL, SQLite
-Data Viz & Reporting: Tableau, Power BI, Google Sheets, Excel
+
+Data Visualization & Reporting: Tableau, Power BI, Google Sheets, Excel
 
 ## Projects in Progress...
 
